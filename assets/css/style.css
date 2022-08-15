@@ -108,6 +108,13 @@ bottom: 120px;
 right: 140px;
 }
 
+.hero-secondary {
+    margin: 20px;
+    background-color: black;
+    font-size: 20px;
+    color: red;
+}
+
 .hero-form h3 {
     font-size: 24px;
     margin: 0;
@@ -269,3 +276,4 @@ right: 140px;
     color: #fce138;
 }
 /*RECH OUT STYLE END */
+
